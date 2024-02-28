@@ -20,11 +20,10 @@ Follow these instructions to set up and run the Django backend project locally.
    git clone https://github.com/your-username/django-backend.git
    ```
 
-2. Set up a virtual environment and then activate it
+2. Navigate to directory
 
     ```
-    py -m venv venv
-    .\\venv\Scripts\activate
+    cd django_backend
     ```
 
 3. Install Dependencies using Pip inside virtual environment
