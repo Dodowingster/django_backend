@@ -27,7 +27,7 @@ Follow these instructions to set up and run the Django backend project locally.
     source venv/bin/activate
 
     #for windows
-    .\\venv\Scripts\activate
+    .\venv\Scripts\activate
     ```
 
 3. Navigate to directory
