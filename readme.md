@@ -1,4 +1,4 @@
-# Django Backend Project
+# Django Backend for ToDoList A.P.P.
 
 This Django project serves as the backend for a task management application. It provides API endpoints for performing CRUD operations on tasks.
 
