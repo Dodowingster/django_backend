@@ -66,3 +66,9 @@ This Django project serves as the backend for a task management application. It 
     ```
 
 8. Server is now running. To close the server simply press CTRL + C in The Terminal.
+
+## Usage
+
+- Upon launching the server, you may head to (http://127.0.0.1:8000/admin)
+- By default, the username and password are both 'admin'
+- Manage database models via admin
