@@ -9,7 +9,7 @@ This Django project serves as the backend for a task management application. It 
     git clone https://github.com/your-username/django-backend.git
     ```
 
-### Installation Method Using Docker(Highly Recommended)
+### Installation Method Using Docker(Highly Recommended) :sunglasses:
 
 2. Install [Docker](https://www.docker.com/products/docker-desktop/) <br>
     :wrench: Note: On Windows, After installing your Docker may crash due to WSL not being updated/installed in your system. If this is the case, simple run this command in your Powershell Terminal
