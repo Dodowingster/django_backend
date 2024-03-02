@@ -12,7 +12,7 @@ This Django project serves as the backend for a task management application. It 
 ### Installation Method Using Docker(Highly Recommended)
 
 2. Install [Docker](https://www.docker.com/products/docker-desktop/) <br>
-    Note: On Windows, After installing your Docker may crash due to WSL not being updated/installed in your system. If this is the case, simple run this command in your Powershell Terminal
+    :wrench: Note: On Windows, After installing your Docker may crash due to WSL not being updated/installed in your system. If this is the case, simple run this command in your Powershell Terminal
     ```
     WSL --update
     ```
