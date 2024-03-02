@@ -2,6 +2,12 @@
 
 This Django project serves as the backend for a task management application. It provides API endpoints for performing CRUD operations on tasks.
 
+## Dependencies
+
+- **Python**
+- **Django**
+- **Django REST Framework**
+
 ## Getting Started
 
 1. Before you do anything make sure to clone this repository to your local machine.
@@ -37,7 +43,7 @@ This Django project serves as the backend for a task management application. It 
     py -m venv venv
     ```
 
-4. activate virtual environment
+4. activate virtual environment (optional)
 
     ```
     #for linux
