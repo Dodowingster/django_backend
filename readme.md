@@ -2,7 +2,7 @@
 
 This Django project serves as the backend for a task management application. It provides API endpoints for performing CRUD operations on tasks.
 
-## :star2:Dependencies
+## 📌:Dependencies
 
 - **Python**
 - **Django**
