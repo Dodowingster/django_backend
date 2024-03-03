@@ -2,20 +2,20 @@
 
 This Django project serves as the backend for a task management application. It provides API endpoints for performing CRUD operations on tasks.
 
-## Dependencies
+## :star2:Dependencies
 
 - **Python**
 - **Django**
 - **Django REST Framework**
 
-## Getting Started
+## :wrench:Getting Started
 
 1. Before you do anything make sure to clone this repository to your local machine.
     ```
     git clone https://github.com/your-username/django-backend.git
     ```
 
-### Installation Method Using :whale:Docker(Highly Recommended) :sunglasses:
+### :whale:Installation Method Using Docker(Highly Recommended) :muscle::sunglasses:
 
 2. Install [Docker](https://www.docker.com/products/docker-desktop/) <br>
     :wrench: Note: On Windows, After installing your Docker may crash due to WSL not being updated/installed in your system. If this is the case, simple run this command in your Powershell Terminal
@@ -39,7 +39,7 @@ This Django project serves as the backend for a task management application. It 
     wsl --shutdown
     ```
 
-### Installation Method Manually(Not Recommended) :dizzy_face:
+### :vhs:Installation Method Manually(Not Recommended) :scream:
 
 2. Install [Python](https://www.python.org/downloads/)
 
