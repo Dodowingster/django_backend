@@ -2,9 +2,10 @@ version: '3'
 
 services:
   django:
-    image: aqqilazman/django:latest
+    image: aqqilazman/djangov2:latest
     ports:
       - "8000:8000"
+
 
 # ______________________________________________________________________________
 #                                                                              
@@ -15,7 +16,7 @@ services:
 #    used, which is version 3 in this case.                                    
 #                                                                              
 #  - Under the 'services' section, a service named 'django' is defined.       
-#    This service is based on the Docker image 'aqqilazman/django:latest',    
+#    This service is based on the Docker image 'aqqilazman/djangov2:latest',    
 #    which is pulled from a Docker repository.                                 
 #                                                                              
 #  - The 'ports' key specifies port mapping between the host and the          
