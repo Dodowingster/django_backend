@@ -5,3 +5,25 @@ services:
     image: aqqilazman/django:latest
     ports:
       - "8000:8000"
+
+# ______________________________________________________________________________
+#                                                                              
+#  This Docker Compose configuration file defines a service named 'django'    
+#  for running a Django application.                                          
+#                                                                              
+#  - The 'version' key specifies the version of Docker Compose syntax being   
+#    used, which is version 3 in this case.                                    
+#                                                                              
+#  - Under the 'services' section, a service named 'django' is defined.       
+#    This service is based on the Docker image 'aqqilazman/django:latest',    
+#    which is pulled from a Docker repository.                                 
+#                                                                              
+#  - The 'ports' key specifies port mapping between the host and the          
+#    container. Port 8000 on the host is mapped to port 8000 on the container,
+#    allowing access to the Django application running inside the container.   
+#                                                                              
+#  This configuration enables running the Django application in a Docker       
+#  container with port forwarding, facilitating access to the application     
+#  from the host machine.                                                      
+#                                                                              
+# ______________________________________________________________________________
