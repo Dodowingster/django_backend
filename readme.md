@@ -79,12 +79,12 @@ This Django project serves as the backend for a task management application. It 
 
 8. Server is now running. To close the server simply press CTRL + C in The Terminal.
 
-## Usage
+## ✅:Usage
 
 - Upon launching the server, you may head to (http://127.0.0.1:8000/admin)
 - By default, the username and password are both 'admin'
 - Manage database models via admin
 
-## API-Endpoint
+## 📝API-Endpoint
 - The API-Endpoint is set on http://127.0.0.1:8000/admin/todolist/task/
 - Use [POSTMAN](https://www.postman.com/) to test fetching the API and use the CRUD operation on Tasks
