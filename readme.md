@@ -33,7 +33,7 @@ This Django project serves as the backend for a task management application. It 
 
 4. Server is now up and running. To close the server simply press CTRL + C in the Terminal.
 
-5. Run this command in your Powershell Termninal once you have close the server and wants the Docker to stop running in the background indirectly
+5. Run this command in your Powershell Termninal once you have closed the server and wants the Docker to stop running in the background indirectly
 
     ```
     wsl --shutdown
